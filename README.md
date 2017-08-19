@@ -1,6 +1,6 @@
 # BESTimation-Origins
 
-### Considering the real time traffic scenarios and the ever-soaring rate of a seemingly endless number of issues faced by commuters daily, there is a dire need for a common platform to address this issue as of right now. We thus propose an idea of implementing an android application wherein the user is supposed to enter the BEST bus number, the name of the bus stop and the destination stop after which our application is going to leverage the user with the following information: 
+Considering the real time traffic scenarios and the ever-soaring rate of a seemingly endless number of issues faced by commuters daily, there is a dire need for a common platform to address this issue as of right now. We thus propose an idea of implementing an android application wherein the user is supposed to enter the BEST bus number, the name of the bus stop and the destination stop after which our application is going to leverage the user with the following information: 
 * Estimated time by which the bus will arrive at the aforementioned stop.
 * Estimation of the crowd in the bus.
 
@@ -34,4 +34,4 @@ Use the Google APIs (Application Programmer Interface) and publicly available da
 * Computers
 * Smart Phones
 
-#### Accurate estimation of arrival times coupled with reliable crowd prediction can address the woes of commuters and will hopefully become an indispensable tool that will enhance the experience of commuting via BEST buses in Mumbai for everyone.
+Accurate estimation of arrival times coupled with reliable crowd prediction can address the woes of commuters and will hopefully become an indispensable tool that will enhance the experience of commuting via BEST buses in Mumbai for everyone.
